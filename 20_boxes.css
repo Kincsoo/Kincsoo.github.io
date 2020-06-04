@@ -1,0 +1,25 @@
+div {
+    height: 90px;
+    width: 800px;
+    display: flex;
+    border: 2px solid rgb(111, 111, 240);
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px;
+    
+}
+
+p {
+    background-color: rgb(111, 111, 240);
+    height: 60px;
+    width: 60px;
+    padding: 0px;
+}
+
+div:last-of-type {
+    background: rgb(253, 115, 51);
+}
+
+div:last-of-type p {
+    background-color: rgb(100, 55, 109);
+}
