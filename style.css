@@ -42,6 +42,7 @@ main {
 
 .mainlist {
    margin-left: 20px;
+   color: purple;
    font-size: 18px;
    list-style-type: square;
 }
